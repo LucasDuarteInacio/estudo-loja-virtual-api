@@ -2,7 +2,7 @@ package com.lucasduarte.lojavirtual.domain.enuns;
 
 public enum EstadoPagamento {
 
-    PENDENTE(1,"Pendente"),
+    PENDENTE( 1,"Pendente"),
     QUITADO(2,"Quitado"),
     CANCELADO(3,"Cancelado");
 
